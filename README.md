@@ -31,9 +31,9 @@ BEFORE the hardening stage of the project, I deployed all the resources into a v
 After the 24 hour period, I hardened the Network Security Groups by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
-![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![NSG Allowed Inbound Malicious Flows](https://github.com/Knighthawk76/Azure-Honeynet/assets/152114740/d1e2cedb-aa98-4e6e-aa29-48807bf69ee9)<br>
+![Linux Syslog Auth Failures](https://github.com/Knighthawk76/Azure-Honeynet/assets/152114740/26cdde89-ab68-48b6-a9fe-d5cd21be4558)<br>
+![Windows RDP/SMB Auth Failures](https://github.com/Knighthawk76/Azure-Honeynet/assets/152114740/32d25a37-0b65-4409-9a67-68e2e3209b32)<br>
 
 ## Metrics Before Hardening / Security Controls
 
