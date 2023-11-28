@@ -11,10 +11,12 @@ In this project, I constructed a mini SOC (security operations center) and Honey
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening and Implementing The Nist Recommended Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://github.com/Knighthawk76/Azure-Honeynet/assets/152114740/76da37c9-f4fd-47cd-a6e9-37ef0f349e05)
+
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://github.com/Knighthawk76/Azure-Honeynet/assets/152114740/42704021-d425-4223-877f-d10ec5c77d68)
+
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
