@@ -10,6 +10,26 @@ In this project, I constructed a mini SOC (security operations center) and Honey
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
+
+
+
+   ### My Tech Stack & Skills
+
+Here are the primary technologies I work with:
+
+**Cloud & Infrastructure**
+* Microsoft Azure
+* Azure Virtual Networking (VNets, NSGs)
+* Virtual Machines (Windows & Linux)
+* Azure Storage
+
+**Security Tools & Frameworks**
+* **SIEM:** Microsoft Sentinel
+* **Query Language:** Kusto Query Language (KQL)
+* **Frameworks:** NIST Cybersecurity Framework
+* **Data:** Log Analytics, Threat Intelligence
+* **Concepts:** SOC Operations, Threat Hunting, Incident Response
+
 ## Architecture Before Hardening and Implementing The Nist Recommended Security Controls
 ![Architecture Diagram](https://github.com/Knighthawk76/Azure-Honeynet/assets/152114740/76da37c9-f4fd-47cd-a6e9-37ef0f349e05)
 
